@@ -1,1 +1,1 @@
-# notify_common
+# notify-common
